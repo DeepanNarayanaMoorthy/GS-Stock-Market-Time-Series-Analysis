@@ -1,6 +1,6 @@
 # GS-Stock-Market-Time-Series-Analysis
 
-Stock Market Analysis_Exploratory Data Analysis  
+## Stock Market Analysis_Exploratory Data Analysis  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UcqbC2dXkg5jf5ZiNaVeUeaG-k9mTg0A?usp=sharing)
 
   - GRAPH FOR High, low, Close, Adjusted, Volume OF EACH DAY OVER 2016 - TODAYS DATE
