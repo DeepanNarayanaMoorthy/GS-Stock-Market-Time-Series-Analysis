@@ -1,8 +1,8 @@
 # GS-Stock-Market-Time-Series-Analysis
 
-### This is an Analysis on Goldman Sachs Group Inc Stock Market Time Series featuring Prices starting from 2016 to present date
-### This Project was created using R Language and run using Google Colab Environment
-### Various Libraries such as Quantmod, Forecast and Anomaly Detection has been used
+  - This is an Analysis on Goldman Sachs Group Inc Stock Market Time Series featuring Prices starting from 2016 to present date
+  - This Project was created using R Language and run using Google Colab Environment
+  - Various Libraries such as Quantmod, Forecast and Anomaly Detection has been used
 
 ## Stock Market Analysis_Exploratory Data Analysis  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UcqbC2dXkg5jf5ZiNaVeUeaG-k9mTg0A?usp=sharing)
