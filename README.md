@@ -22,7 +22,7 @@
     - K Nearest Neighbours
     - Feed Foward Neural network
 
-Stock Prices Anomaly Detection  
+## Stock Prices Anomaly Detection  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i923pG09SlhpnZ_n_AckL2cLTmhYwHg6?usp=sharing)
 
   - Used Business Science : Tidy anomaly detection
